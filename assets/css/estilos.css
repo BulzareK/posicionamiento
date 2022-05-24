@@ -1,0 +1,110 @@
+body {
+  background-color: black;
+  font-family: "Raleway", sans-serif;
+  max-width: 100vw;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.iguanaheader img {
+  width: 100%;
+}
+
+.contenido {
+  display: block;
+  width: 100%;
+  min-height: 20vw;
+  color: white;
+  text-align: center;
+  padding: 5% 0;
+}
+
+.text {
+  display: inline-block;
+  width: 35%;
+  text-align: left;
+  vertical-align: top;
+  padding-top: 4%;
+  font-size: 1.1vw;
+}
+
+.cajaimg {
+  float: right;
+  width: 30%;
+  margin-left: 3%;
+  margin-right: 15%;
+}
+
+.cajaimg img {
+  width: 100%;
+}
+
+.features {
+  padding-top: 20px;
+  font-size: 40px;
+  width: 100%;
+  height: 348px;
+  color: white;
+  background-color: #1e1a13;
+  text-align: center;
+}
+
+.f1 {
+  display: inline-block;
+  width: 25%;
+}
+
+.tresiguanas {
+  display: block;
+  padding-top: 73px;
+  padding-bottom: 73px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.divimgfoot {
+  display: inline-block;
+  text-align: center;
+  width: 33%;
+}
+
+.imgfooter {
+  padding: 0 8px;
+  width: 316px;
+  height: 202px;
+}
+
+.cajafooter {
+  margin: auto;
+  padding-top: 15px;
+  width: 70%;
+}
+
+footer {
+  background-color: #1e1a13;
+  text-align: center;
+  color: white;
+  font-size: 1.1vw;
+  padding: 1.5%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+/*footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgfooter {
+  padding: 0px 8px;
+  width: 316px;
+  height: 202px;
+}
+*/
